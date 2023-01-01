@@ -4,7 +4,7 @@ import {useEffect, useState} from "react";
 import * as Location from 'expo-location';
 import { Fontisto } from '@expo/vector-icons';
 
-const API_KEY = "a50f770be185fd1898385465d4da5341"
+const API_KEY = "1234"
 const { width: SCREEN_WIDTH } = Dimensions.get("window");
 const icons = {
   Clouds : "cloudy",
